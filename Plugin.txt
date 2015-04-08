@@ -13,5 +13,7 @@ Advanced Ubot:2.4.6.0:AVUB1
 Advanced Ubot 2:2.0.6.0:AVUB2
 Advanced Video:2.0.7.0:AVVEO
 Advanced WordPress:2.0.2.4:AVWP
-Advanced Twitter:1.0.0.0:AVTT
-END
+***************************************
+Advanced Twitter:2.0.0.0:AVTT
+Advanced Google YouTube V2:2.0.4.1:AVGYTV2
+Advanced Email:2.0.0.0:AVEM
