@@ -10,8 +10,8 @@ Advanced Image:2.0.8.0:AVIMGCH1
 Advanced Screen and Windows:2.0.9.0:AVSAW
 Advanced Systems:2.1.2.3:AVSTM
 Advanced Ubot:2.4.6.0:AVUB1
-Advanced Ubot 2:2.0.6.0:AVUB2
-Advanced Video:2.0.7.0:AVVEO
+Advanced Ubot 2:2.0.6.1:AVUB2
+Advanced Video:2.0.7.1:AVVEO
 Advanced WordPress:2.0.2.4:AVWP
 ***************************************
 Advanced Twitter:2.0.0.0:AVTT
