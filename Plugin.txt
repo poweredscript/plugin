@@ -1,16 +1,16 @@
-Advanced Data Text File:2.2.3.0:AVDTF
+Advanced Data Text File:2.2.4.0:AVDTF
 Advanced Date And Time:2.0.1.1:AVDAT
-Advanced DateTime:2.0.2.2:AVDT
-Advanced Dialog:2.1.6.5:AVDAL
-Advanced Document:2.0.3.0:AVDCM
+Advanced DateTime:2.0.3.0:AVDT
+Advanced Dialog:2.1.6.8:AVDAL
+Advanced Document:2.0.4.0:AVDCM
 Advanced Google Blogger V3:2.0.5.2:AVGGB
 Advanced Google Drive:2.0.6.1:AVGGD
 Advanced Google YouTube V3:2.0.6.3:AVGYT
 Advanced Image:2.0.8.0:AVIMGCH1
 Advanced Screen and Windows:2.0.9.0:AVSAW
-Advanced Systems:2.1.2.3:AVSTM
-Advanced Ubot:2.4.6.0:AVUB1
-Advanced Ubot 2:2.0.6.1:AVUB2
+Advanced Systems:2.1.3.0:AVSTM
+Advanced Ubot:2.4.6.1:AVUB1
+Advanced Ubot 2:2.0.6.2:AVUB2
 Advanced Video:2.0.7.1:AVVEO
 Advanced WordPress:2.0.2.4:AVWP
 ***************************************
