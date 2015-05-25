@@ -21,4 +21,5 @@ Advanced PowerPoint:2.0.0.0:AVPP
 Advanced Zip:2.0.0.0:AVZ
 Advanced Connection:2.0.0.0:AVCN
 Advanced Google Maps:2.0.0.0:AVGM
+Advanced SQLite:2.0.0.0:AVSQLL
 ***************************************
