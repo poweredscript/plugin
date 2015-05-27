@@ -16,10 +16,10 @@ Advanced WordPress:2.0.2.4:AVWP
 ***************************************
 Advanced Twitter:2.0.0.0:AVTT
 Advanced Google YouTube V2:2.0.4.1:AVGYTV2
-Advanced Email:2.0.1.0:AVEM
+Advanced Email:2.0.2.0:AVEM
 Advanced PowerPoint:2.0.0.0:AVPP
 Advanced Zip:2.0.0.0:AVZ
 Advanced Connection:2.0.0.0:AVCN
 Advanced Google Maps:2.0.0.0:AVGM
-Advanced SQLite:2.0.0.0:AVSQLL
+Advanced SQLite:2.0.1.0:AVSQLL
 ***************************************
