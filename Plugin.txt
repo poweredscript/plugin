@@ -8,7 +8,7 @@ Advanced Google Drive:2.0.6.1:AVGGD
 Advanced Google YouTube V3:2.0.6.3:AVGYT
 Advanced Image:2.0.8.0:AVIMGCH1
 Advanced Screen and Windows:2.0.9.0:AVSAW
-Advanced Systems:2.1.3.0:AVSTM
+Advanced Systems:2.1.4.0:AVSTM
 Advanced Ubot:2.4.6.1:AVUB1
 Advanced Ubot 2:2.0.6.2:AVUB2
 Advanced Video:2.0.7.1:AVVEO
