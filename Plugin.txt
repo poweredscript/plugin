@@ -23,5 +23,5 @@ Advanced Connection:2.0.0.0:AVCN
 Advanced Google Maps:2.0.0.0:AVGM
 Advanced SQLite:2.0.1.0:AVSQLL
 Advanced WebDriver:2.0.0.0:AVWD
-Advanced Translator:2.0.0.0:AVT
+Advanced Translator:2.0.0.0:AVT1
 ***************************************
