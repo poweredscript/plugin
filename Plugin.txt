@@ -21,6 +21,6 @@ Advanced Zip:2.0.0.1:AVZ
 Advanced Connection:2.0.2.1:AVCN
 Advanced Google Maps:2.0.0.1:AVGM
 Advanced SQLite:2.0.2.2:AVSQLL
-Advanced WebDriver:2.0.2.3:AVWD
+Advanced WebDriver:2.0.2.4:AVWD
 Advanced Translate:2.0.0.1:AVTSL
 ***************************************
