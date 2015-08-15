@@ -9,7 +9,7 @@ Advanced Google YouTube V3:2.0.7.0:AVGYT
 Advanced Image:2.1.0.0:AVIMGCH1
 Advanced Screen and Windows:2.0.9.1:AVSAW
 Advanced Systems:2.1.4.1:AVSTM
-Advanced Ubot:3.0.0.2:AVUB1
+Advanced Ubot:3.0.0.3:AVUB1
 Advanced Ubot 2:2.0.8.0:AVUB2
 Advanced Video:2.0.7.2:AVVEO
 Advanced WordPress:3.0.1.2:AVWP
