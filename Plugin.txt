@@ -23,4 +23,5 @@ Advanced Google Maps:2.0.0.1:AVGM
 Advanced SQLite:2.0.2.2:AVSQLL
 Advanced WebDriver:2.0.2.5:AVWD
 Advanced Translate:2.0.0.1:AVTSL
+Advanced Universal Control:2.0.0.0:AVUC
 ***************************************
