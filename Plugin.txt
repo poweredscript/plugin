@@ -18,7 +18,7 @@ Advanced Twitter:2.1.0.1:AVTT
 Advanced Email:2.0.2.1:AVEM
 Advanced PowerPoint:2.0.0.1:AVPP
 Advanced Zip:2.0.0.1:AVZ
-Advanced Connection:2.0.2.1:AVCN
+Advanced Connection:2.0.3.0:AVCN
 Advanced Google Maps:2.0.0.1:AVGM
 Advanced SQLite:2.0.2.2:AVSQLL
 Advanced WebDriver:2.0.2.5:AVWD
