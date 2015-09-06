@@ -16,7 +16,7 @@ Advanced WordPress:3.0.1.2:AVWP
 ***************************************
 Advanced Twitter:2.1.0.1:AVTT
 Advanced Email:2.0.2.1:AVEM
-Advanced PowerPoint:2.0.0.1:AVPP
+Advanced PowerPoint:2.0.1.0:AVPP
 Advanced Zip:2.0.0.1:AVZ
 Advanced Connection:2.0.3.1:AVCN
 Advanced Google Maps:2.0.0.1:AVGM
