@@ -12,7 +12,7 @@ Advanced Systems:2.1.4.1:AVSTM
 Advanced Ubot:3.0.0.3:AVUB1
 Advanced Ubot 2:2.0.8.0:AVUB2
 Advanced Video:2.0.7.2:AVVEO
-Advanced WordPress:3.0.1.2:AVWP
+Advanced WordPress:3.0.6.0:AVWP
 ***************************************
 Advanced Twitter:2.1.0.1:AVTT
 Advanced Email:2.0.2.1:AVEM
